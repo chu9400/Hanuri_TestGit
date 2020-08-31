@@ -16,7 +16,7 @@ int main(void) {
 [클릭시 블로그로 이동](https://github.com/chu9400/TestGit.git)
 
 * git 튜토리얼
-  *깃 Clone
+  * Git Clone
   * Pull
   * Commit
     * Commit1)
